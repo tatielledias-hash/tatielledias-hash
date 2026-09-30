@@ -30,8 +30,6 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 
 ### 🚀 Projetos em Destaque
 
-- **[Nome do Projeto 1](https://github.com/tatielledias-hash/nome-do-repositorio)** — Breve descrição do projeto (ex: Aplicação web em C# e ASP.NET para gestão de processos).
-- **[Nome do Projeto 2](https://github.com/tatielledias-hash/nome-do-repositorio)** — Breve descrição do projeto (ex: Interface desenvolvida no Figma e implementada em React/Tailwind).
 - 📌 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/tatielledias-hash?tab=repositories).
 
 ---
