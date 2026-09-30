@@ -28,12 +28,6 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 
 ---
 
-### 🚀 Projetos em Destaque
-
-- 📌 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/tatielledias-hash?tab=repositories).
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
@@ -57,5 +51,6 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 ### 📊 Estatísticas
 
 <p align="left">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielledias-hash&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tatielledias-hash&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielledias-hash&theme=tokyonight&layout=compact&hide_border=false" alt="Linguagens Mais Usadas" height="150" />
 </p>
