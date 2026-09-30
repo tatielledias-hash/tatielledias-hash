@@ -23,7 +23,7 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 <br/>
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/tatielledias-hash/count.svg" alt="Visualizações do Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=tatielledias-hash&color=green&style=for-the-badge&label=VISITANTES" alt="Visualizações do Perfil" />
 </p>
 
 ---
