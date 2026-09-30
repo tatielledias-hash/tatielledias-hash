@@ -17,6 +17,13 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 
 ---
 
+### 🚀 Foco Atual & Aprendizados
+- 🎯 Desenvolvendo aplicações em **C#** e **.NET / ASP.NET**
+- 🎨 Criando interfaces e protótipos no **Figma**
+- ☁️ Explorando ecossistema de nuvem com **Azure**
+
+---
+
 ### 🌐 Conecta-te comigo
 - 💼 **LinkedIn:** [Tatielle Fernandes](https://www.linkedin.com/in/tatielle-fernandes-/)
 
@@ -45,11 +52,3 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 </p>
 
 <br/><br/>
-
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tatielledias-hash&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-</p>
