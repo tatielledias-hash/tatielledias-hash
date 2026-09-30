@@ -13,6 +13,7 @@ Desenvolvedora em formação pela **PUC Minas**, com foco em tecnologia, gestão
 
 ### 🌐 Conecta-te comigo
 - 💼 **LinkedIn:** [Tatielle Fernandes](https://www.linkedin.com/in/tatielle-fernandes-/)
+<p align="left"> 
 <a href="https://github.com/tatielledias-hash/tatielledias-hash?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -20,6 +21,8 @@ Desenvolvedora em formação pela **PUC Minas**, com foco em tecnologia, gestão
             src="https://custom-icon-badges.demolab.com/github/stars/tatielledias-hash?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+</p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
