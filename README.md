@@ -21,7 +21,8 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 - 🎯 Desenvolvendo aplicações em **C#** e **.NET / ASP.NET**
 - 🎨 Criando interfaces e protótipos no **Figma**
 - ☁️ Explorando ecossistema de nuvem com **Azure**
-
+- 💻 Desenvolvendo sistemas e soluções web/back-end
+- 📱 Iniciando estudos e projetos com **React** e **Expo** (React Native)
 ---
 
 ### 🌐 Conecta-te comigo
