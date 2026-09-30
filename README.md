@@ -51,6 +51,6 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tatielledias-hash&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielledias-hash&theme=tokyonight&layout=compact&hide_border=false" alt="Linguagens Mais Usadas" height="150" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tatielledias-hash&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.net/?user=tatielledias-hash&theme=tokyonight" alt="Sequência de Contribuições" />
 </p>
