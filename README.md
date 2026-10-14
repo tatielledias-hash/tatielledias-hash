@@ -64,6 +64,10 @@ Desenvolvedora em formação pela **PUC Minas**, unindo conhecimentos em tecnolo
   <img align="left" alt="Python" title="Python" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
   <img align="left" alt="Expo" title="Expo" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+
+  <img align="left" alt="Streamlit" title="Streamlit" height="32px" style="padding-right: 10px;" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
+  <img align="left" alt="CustomTkinter" title="CustomTkinter" height="32px" style="padding-right: 10px;" src="https://img.shields.io/badge/CustomTkinter-6A5ACD?style=flat&logo=python&logoColor=white" />
 </p>
 
 <br/><br/>
